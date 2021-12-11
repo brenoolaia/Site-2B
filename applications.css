@@ -1,0 +1,57 @@
+body{
+    width: 95% ;
+    max-width: 800px;
+    margin: auto ;
+    background: url(Bg1.jpg)  center;
+
+    font-family: lato ;
+    line-height: 1.5;
+    color: Black;
+}
+
+main {
+    background: #00000054;
+    padding: px 40px;
+    margin-top: 20px;
+    border-radius: 15px;
+
+}
+.Logo, .Candy-name, .headline, .historia {
+    margin:0;
+    text-align: center;
+}
+.concerts{
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+.concerts table{
+    background:#eae9e9a3;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.menu ul{
+    margin: 0 auto;
+    background-color: #ffffffe3;
+    border-radius: 5px;
+    list-style: none;
+}
+.menu ul li{
+    display: inline;
+
+    
+}
+.menu ul li a{
+    padding: 2px 10px;
+    display: inline-block;
+
+    color: black;
+    text-decoration: none;
+
+
+}
+.menu ul li a:hover{
+    color: orchid;
+}
